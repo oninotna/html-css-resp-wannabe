@@ -159,6 +159,8 @@ img {
 
     .steps {
         margin-bottom: 0;
+        margin-top: 0;
+        padding-bottom: 0;
     }
 
     .steps .row {
@@ -175,7 +177,7 @@ img {
     }
 
     .why-us {
-        padding-top: 3rem;
+        padding: 3rem;
         margin-bottom: 0;
         background: #222222;
     }
