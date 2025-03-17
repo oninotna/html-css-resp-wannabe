@@ -150,4 +150,48 @@ img {
         padding: 0 3rem;
         margin-bottom: 4rem;
     }
+
+    .steps {
+        margin-bottom: 0;
+    }
+
+    .steps .row {
+        flex-direction: column;
+    }
+
+    .steps .col {
+        width: 100%;
+    }
+
+    .steps .text {
+        padding: 0 3rem;
+        margin-bottom: 4rem;
+    }
+
+    .why-us {
+        padding-top: 3rem;
+        margin-bottom: 0;
+        background: #222222;
+    }
+
+    .why-us .text-center {
+        padding: 0 3rem;
+    }
+
+    .why-us .row {
+        flex-direction: column;
+    }
+
+    .why-us .col-left {
+        width: 100%;
+        margin-bottom: 5rem;
+    }
+
+    .why-us .col-right {
+        width: 100%;
+    }
+
+    .why-us li {
+        padding: 0 3rem;
+    }
 }
